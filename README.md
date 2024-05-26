@@ -20,18 +20,18 @@ What is the best-selling product in the United States?
 
 # Tableau Dashboard 1: 
 
-Revenue by Country
-Sales Distribution
-Quantity Distribution
-Customer Distribution
+Revenue by Country,
+Sales Distribution,
+Quantity Distribution,
+Customer Distribution.
 
 # Tableau Dashboard 2:
 
-Deal Size Distribution
-Revenue by Product Line
-Revenue by Status
-Sales by Product Line and Order Year
-Monthly Sales by Country
+Deal Size Distribution,
+Revenue by Product Line,
+Revenue by Status,
+Sales by Product Line and Order Year,
+Monthly Sales by Country.
 
 # Conclusion:
 By analyzing sales data using SQL and visualizing insights through Tableau dashboards, AutoTech Inc. gains valuable insights into revenue trends, customer behavior, and product performance. These insights enable them to make data-driven decisions to optimize sales strategies, improve customer satisfaction, and drive profitability across different regions and product lines.
