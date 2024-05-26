@@ -1,0 +1,2 @@
+SalesDashboard1: https://public.tableau.com/app/profile/ayoub.chekour/viz/SalesDashboard1_17167490541530/SalesDash1?publish=yes
+SalesDashboard2: https://public.tableau.com/app/profile/ayoub.chekour/viz/SalesDashboard2_17167491544220/SalesDash2?publish=yes
