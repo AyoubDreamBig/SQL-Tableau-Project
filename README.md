@@ -1,4 +1,4 @@
-# SQL-Tableau-Project
+# Analyzing Vehicle Sales Data
 ## Case Study: Analyzing Vehicle Sales Data:
 
 # Introduction:
